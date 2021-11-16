@@ -1,0 +1,5 @@
+[http]
+	sslVerify = false
+[user]
+	name = 求愚
+	email = calcyu@qq.com
